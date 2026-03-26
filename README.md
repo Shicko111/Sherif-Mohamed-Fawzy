@@ -1,5 +1,5 @@
 # Sherif-Mohamed-Fawzy
-# Hi there 👋, I'm sherif mohamed
+# Hi there 👋, I'm Sherif Mohamed
 
 ## About Me
 - 🌱 I'm learning programming and GitHub.
